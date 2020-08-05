@@ -36,9 +36,16 @@ Sebuah layout admin website untuk membuat dan mengatur setiap inovasi di perangk
 
 ## Preview Web
 
-<img src="">
+<img src="ss/1.PNG">
 
-<<<<<<< HEAD
+<img src="ss/2.PNG">
+
+<img src="ss/3.PNG">
+
+<img src="ss/4.PNG">
+
+<img src="ss/5.PNG">
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
@@ -50,6 +57,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# SC-Inovasi-Smart-City
-=======
->>>>>>> 5886d3239d442faa9d4099333caed5f4f394f36d
