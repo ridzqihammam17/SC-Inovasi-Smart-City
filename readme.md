@@ -23,6 +23,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## SC Inovasi Smart City
 
+<p align="center"><img src="ss/logo.PNG" width="400"></p>
+
 Sebuah layout admin website untuk membuat dan mengatur setiap inovasi di perangkat daerah. Memiliki banyak fitur seperti menambah inovasi, menambah user, melihat status progress inovasi.
 
 ### Tools Used
